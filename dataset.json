@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Houston, Texas, US",
+  "export_job_id": "9f593181-8c61-441a-8e0a-70d7edd4ffc7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 431117,
+  "location_name": "Houston",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-houston-texas-us-sample-431117",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/431117/beamstation_431117_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 237,
+  "sample_sha256": "c06ecaa68796d29cee5bc0a0412a2016b02499dcb4ecedc8b56c8d18c3d73090",
+  "sample_size_bytes": 971529,
+  "total_records": 2378,
+  "updated_at": "2026-04-07T22:37:24.177626+00:00"
+}
