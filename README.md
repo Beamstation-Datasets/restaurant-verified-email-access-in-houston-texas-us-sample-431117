@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Houston, Texas, US
 
-> Free BeamStation sample export with 230 rows and masked direct-contact fields.
+> Free BeamStation sample export with 193 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `431117` |
 | Location | Houston |
 | Category | Restaurants |
-| Full dataset size | 2,308 records |
-| Free sample size | 230 records (9.97%) |
-| Last export | 2026-04-15T04:23:59.038261+00:00 |
+| Full dataset size | 1,931 records |
+| Free sample size | 193 records (9.99%) |
+| Last export | 2026-04-22T09:52:19.435926+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-houston-texas-us-sample-431117/releases/download/sample-latest/beamstation_431117_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
