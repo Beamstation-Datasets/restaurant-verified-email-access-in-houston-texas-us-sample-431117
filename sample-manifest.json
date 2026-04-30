@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6922a76a-3d59-44e9-880c-05d8d1e7ed3c",
+  "export_job_id": "2412d86c-fea1-4dab-81df-65cb8732c309",
   "id_short": 431117,
-  "published_at": "2026-04-22T19:43:28Z",
+  "published_at": "2026-04-30T07:26:23Z",
   "repo_name": "restaurant-verified-email-access-in-houston-texas-us-sample-431117",
   "sample_asset_name": "beamstation_431117_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/431117/beamstation_431117_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 193,
-  "sample_sha256": "16460e1c2f3b033eb97960685352b1104851c72692029e1e34e028c079385c3c",
-  "sample_size_bytes": 796575,
-  "total_records": 1931
+  "sample_records": 238,
+  "sample_sha256": "9a21b4b4cda390434f7af65bb763e9e6ff297978bbcbcaff60303e63c1b8675f",
+  "sample_size_bytes": 940209,
+  "total_records": 2381
 }
